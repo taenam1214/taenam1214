@@ -46,79 +46,32 @@ shipping things people actually use.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-0D3B3E?style=for-the-badge&logo=typescript&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/JavaScript-0D3B3E?style=for-the-badge&logo=javascript&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Python-0D3B3E?style=for-the-badge&logo=python&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Go-0D3B3E?style=for-the-badge&logo=go&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Swift-0D3B3E?style=for-the-badge&logo=swift&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Java-0D3B3E?style=for-the-badge&logo=openjdk&logoColor=5EEAD4" />
-</p>
-
-**Frontend**
-
-<p>
-<img src="https://img.shields.io/badge/React-0D3B3E?style=for-the-badge&logo=react&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Next.js-0D3B3E?style=for-the-badge&logo=nextdotjs&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/React_Native-0D3B3E?style=for-the-badge&logo=react&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Redux-0D3B3E?style=for-the-badge&logo=redux&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Tailwind-0D3B3E?style=for-the-badge&logo=tailwindcss&logoColor=5EEAD4" />
-</p>
-
-**Backend & Data**
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-0D3B3E?style=for-the-badge&logo=nodedotjs&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Django-0D3B3E?style=for-the-badge&logo=django&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Flask-0D3B3E?style=for-the-badge&logo=flask&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/GraphQL-0D3B3E?style=for-the-badge&logo=graphql&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D3B3E?style=for-the-badge&logo=postgresql&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Redis-0D3B3E?style=for-the-badge&logo=redis&logoColor=5EEAD4" />
-</p>
-
-**Cloud, DevOps & AI**
-
-<p>
-<img src="https://img.shields.io/badge/AWS-0D3B3E?style=for-the-badge&logo=amazonwebservices&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Docker-0D3B3E?style=for-the-badge&logo=docker&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0D3B3E?style=for-the-badge&logo=githubactions&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/OpenAI-0D3B3E?style=for-the-badge&logo=openai&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/PyTorch-0D3B3E?style=for-the-badge&logo=pytorch&logoColor=5EEAD4" />
-<img src="https://img.shields.io/badge/Palantir_OSDK-0D3B3E?style=for-the-badge&logo=palantir&logoColor=5EEAD4" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 FlikiApp
+### FlikiApp
 Web front-end for **Fliki**, built and iterated heavily in React + TypeScript + Vite —
 my **most-active codebase (270+ commits)**. Shipped and deployed on Vercel.
 
 `React` `TypeScript` `Vite`
 
-<a href="https://flikiapp-web.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0D3B3E?style=flat-square&logo=vercel&logoColor=5EEAD4" /></a>
+<a href="https://flikiapp-web.vercel.app"><img src="https://img.shields.io/badge/Website-0D3B3E?style=flat-square&logo=vercel&logoColor=5EEAD4" /></a>
 <a href="https://github.com/FlikiApp/FlikiApp-Web"><img src="https://img.shields.io/badge/Code-0D3B3E?style=flat-square&logo=github&logoColor=5EEAD4" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 KairosAI
+### KairosAI
 Agentic market-entry intelligence platform that autonomously researches competitors
 and market segments, delivering executive dashboards and go/no-go action plans
 **~10× faster** than manual research.
 
 `React` `Vite` `Chakra UI` `Django` `PostgreSQL` `Redis`
 
-<a href="https://market-entry-intel-platform.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0D3B3E?style=flat-square&logo=vercel&logoColor=5EEAD4" /></a>
+<a href="https://market-entry-intel-platform.vercel.app"><img src="https://img.shields.io/badge/Website-0D3B3E?style=flat-square&logo=vercel&logoColor=5EEAD4" /></a>
 <a href="https://github.com/taenam1214/market-entry-intel-platform"><img src="https://img.shields.io/badge/Code-0D3B3E?style=flat-square&logo=github&logoColor=5EEAD4" /></a>
 
 </td>
@@ -126,7 +79,7 @@ and market segments, delivering executive dashboards and go/no-go action plans
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Checkpoint
+### Checkpoint
 Review, approval & audit layer for **AI agents in regulated workflows** — a fast
 human-in-the-loop cockpit surfacing the *minimum context* to approve/reject an
 agent's action, backed by an append-only compliance audit trail.
@@ -138,7 +91,7 @@ agent's action, backed by an append-only compliance audit trail.
 </td>
 <td width="50%" valign="top">
 
-### 🔒 Redactify
+### Redactify
 Privacy-first tool that detects and redacts **PII from documents — 100% local,
 zero cloud, zero trust required.** Published to PyPI with CI and coverage gating.
 
@@ -152,19 +105,19 @@ zero cloud, zero trust required.** Published to PyPI with CI and coverage gating
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 TeamBlur
+### TeamBlur
 Production marketing site for the TeamBlur startup — built and shipped with
 **Next.js + TypeScript**, deployed on Vercel.
 
 `Next.js` `TypeScript` `CSS`
 
-<a href="https://team-blur-website.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0D3B3E?style=flat-square&logo=vercel&logoColor=5EEAD4" /></a>
+<a href="https://team-blur-website.vercel.app"><img src="https://img.shields.io/badge/Website-0D3B3E?style=flat-square&logo=vercel&logoColor=5EEAD4" /></a>
 <a href="https://github.com/taenam1214/TeamBlur-Website"><img src="https://img.shields.io/badge/Code-0D3B3E?style=flat-square&logo=github&logoColor=5EEAD4" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📂 Explore more
+### Explore more
 30+ repos spanning full-stack TypeScript, Go, Swift & Python — side projects,
 takehomes, and experiments.
 
