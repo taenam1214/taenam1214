@@ -79,14 +79,15 @@ and market segments, delivering executive dashboards and go/no-go action plans
 <tr>
 <td width="50%" valign="top">
 
-### Checkpoint
-Review, approval & audit layer for **AI agents in regulated workflows** — a fast
-human-in-the-loop cockpit surfacing the *minimum context* to approve/reject an
-agent's action, backed by an append-only compliance audit trail.
+### Prediction Spread Scanner
+Event-driven system that ingests live prices from **Polymarket & Kalshi**,
+streams through Redpanda, detects cross-platform pricing divergence, and runs
+**market microstructure analytics** — lead-lag analysis, execution simulation,
+calibration curves.
 
-`TypeScript` `React` `PostgreSQL`
+`TypeScript` `Redpanda/Kafka` `PostgreSQL` `Redis` `Next.js` `Docker`
 
-<a href="https://github.com/taenam1214/CheckPoint"><img src="https://img.shields.io/badge/Code-0D3B3E?style=flat-square&logo=github&logoColor=5EEAD4" /></a>
+<a href="https://github.com/taenam1214/prediction-spread-scanner"><img src="https://img.shields.io/badge/Code-0D3B3E?style=flat-square&logo=github&logoColor=5EEAD4" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -105,14 +106,14 @@ zero cloud, zero trust required.** Published to PyPI with CI and coverage gating
 <tr>
 <td width="50%" valign="top">
 
-### TeamBlur
-Production marketing site for the TeamBlur startup — built and shipped with
-**Next.js + TypeScript**, deployed on Vercel.
+### Checkpoint
+Review, approval & audit layer for **AI agents in regulated workflows** — a fast
+human-in-the-loop cockpit surfacing the *minimum context* to approve/reject an
+agent's action, backed by an append-only compliance audit trail.
 
-`Next.js` `TypeScript` `CSS`
+`TypeScript` `React` `PostgreSQL`
 
-<a href="https://team-blur-website.vercel.app"><img src="https://img.shields.io/badge/Website-0D3B3E?style=flat-square&logo=vercel&logoColor=5EEAD4" /></a>
-<a href="https://github.com/taenam1214/TeamBlur-Website"><img src="https://img.shields.io/badge/Code-0D3B3E?style=flat-square&logo=github&logoColor=5EEAD4" /></a>
+<a href="https://github.com/taenam1214/CheckPoint"><img src="https://img.shields.io/badge/Code-0D3B3E?style=flat-square&logo=github&logoColor=5EEAD4" /></a>
 
 </td>
 <td width="50%" valign="top">
